@@ -67,7 +67,7 @@ input:checked + label {
 .cards_prices{
     display: flex;
     justify-content: center;
-    
+    padding: 0 10px;
 }
 .basic, .master {
     background: #fff;
