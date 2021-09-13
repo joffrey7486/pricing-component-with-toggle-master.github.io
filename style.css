@@ -215,9 +215,9 @@ input:checked + label {
 }
 @media (max-width: 768px){
     .cards_prices{
-        align-items: center;
+        display: flex;
         flex-direction: column;
-        justify-content: inherit;
+        align-items: center;
     }
     .card {
         width: 20rem;
